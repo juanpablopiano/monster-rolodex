@@ -1,0 +1,9 @@
+{
+  "short_name": "Testing area 2",
+  "name": "An area for testing code",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
